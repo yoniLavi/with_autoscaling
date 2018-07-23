@@ -46,4 +46,4 @@ Apache v2
 
 ## Author
 
-Yoni Yalovitsky - yoni@fewbytes.com
+Yoni Lavi - yoni@lavi.fm, created during my time at fewbytes.com
